@@ -1,3 +1,29 @@
-# app-policy
-개인정보처리방침
-복사붙여넣기 테스트 전
+[가유] 개인정보처리방침:
+애드인디 ("애드인디") operates github.io and may operate other websites. It is my [Giude U] App policy to respect your privacy regarding any information we may collect while operating our websites.
+
+Website Visitors
+Like most website operators, 애드인디 collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. my [Giude U] App purpose in collecting non-personally identifying information is to better understand how my [Giude U] App visitors use its website. From time to time, 애드인디 may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+애드인디 also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on github.io blogs/sites. 애드인디 only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+
+Gathering of Personally-Identifying Information
+Certain visitors to my [Giude U] App websites choose to interact with 애드인디 in ways that require 애드인디 to gather personally-identifying information. The amount and type of information that 애드인디 gathers depends on the nature of the interaction. For example, we ask visitors who sign up at github.io to provide a username and email address. Those who engage in transactions with 애드인디 are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, 애드인디 collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with 애드인디. 애드인디 does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Aggregated Statistics
+애드인디 may collect statistics about the behavior of visitors to its websites. 애드인디 may display this information publicly or provide it to others. However, 애드인디 does not disclose personally-identifying information other than as described below.
+
+Protection of Certain Personally-Identifying Information
+애드인디 discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on my [Giude U] App behalf or to provide services available at my [Giude U] App websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using my [Giude U] App websites, you consent to the transfer of such information to them. 애드인디 will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, 애드인디 discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when 애드인디 believes in good faith that disclosure is reasonably necessary to protect the property or rights of 애드인디, third parties or the public at large. If you are a registered user of an 애드인디 website and have supplied your email address, 애드인디 may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with 애드인디 and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. 애드인디 takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+Cookies
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. 애드인디 uses cookies to help 애드인디 identify and track visitors, their usage of 애드인디 website, and their website access preferences. 애드인디 visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using my [Giude U] App websites, with the drawback that certain features of my [Giude U] App websites may not function properly without the aid of cookies.
+
+Business Transfers
+If 애드인디, or substantially all of its assets, were acquired, or in the unlikely event that 애드인디 goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of 애드인디 may continue to use your personal information as set forth in this policy.
+
+Ads
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by 애드인디 and does not cover the use of cookies by any advertisers.
+
+[가유] 개인정보처리방침 Changes
+Although most changes are likely to be minor, 애드인디 may change its [가유] 개인정보처리방침 from time to time, and in my [Giude U] App sole discretion. 애드인디 encourages visitors to frequently check this page for any changes to its [가유] 개인정보처리방침. If you have a github.io account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this [가유] 개인정보처리방침 will constitute your acceptance of such change.
+
